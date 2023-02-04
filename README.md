@@ -9,5 +9,5 @@ Here we add info by time! This github repository will be a "living" document and
 
 ### First lecture
 
-The first lecture will be in hybrid form and takes place in 1B27 and online!
+The first lecture will be in hybrid form and takes place in 0B2 and online!
 We will tell you how the course is organised, when we will have next lectures and seminares where you can ask questions. 
