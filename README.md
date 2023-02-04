@@ -7,7 +7,12 @@ Forestal and Environmental modelling and data science course
 
 Here we add info by time! This github repository will be a "living" document and access and exchange point.
 
-### First lecture
+## Lecture format
 
-The first lecture will be in hybrid form and takes place in 0B2 and online!
-We will tell you how the course is organised, when we will have next lectures and seminares where you can ask questions. 
+The lectures will be in hybrid form and take place in some lecture rooms and online! 
+
+The video chat room link is: [https://videosild.emu.ee/b/ste-34u-yas-qir](https://videosild.emu.ee/b/ste-34u-yas-qir)
+
+
+
+
