@@ -3,7 +3,7 @@
 The final challenge is to make a short video about the things you have been learning.
 the time should be at max 10 minutes. 
 
-### The videa should contain:
+### The video should contain:
 
 1. How to load data into the notebook
 2. create a dataframe and clean the data
