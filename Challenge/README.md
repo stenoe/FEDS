@@ -27,7 +27,7 @@ I use for screen recording the software OpenBroadcaster Software (OBS) https://o
 
 To cut the video and to transform it into the right formats, I use DaVinci Resolve https://www.blackmagicdesign.com/products/davinciresolve. This software has a free version option but you may need to sign up with email. The free version is perfect to anything that is needed. 
 
-There are into videos on youtube if you want to check out how to use these.
+There are intro videos on youtube if you want to check out how to use these.
 
 _You can of course use any other software you are familiar with._
 
